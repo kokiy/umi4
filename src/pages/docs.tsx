@@ -1,3 +1,4 @@
+import { FormattedNumber } from "umi";
 const DocsPage = () => {
   return (
     <div>
